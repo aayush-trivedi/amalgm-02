@@ -1,7 +1,7 @@
 import Exa from 'exa-js';
 import { generateChatCompletion } from './openai-actions'; // Make sure this import is correct
 
-const exa = new Exa('f1bfda08-f711-4baf-af0b-884ed5202e5f');
+const exa = new Exa("Exa API Key");
 
 export const performExaSearch = async (query) => {
   try {
