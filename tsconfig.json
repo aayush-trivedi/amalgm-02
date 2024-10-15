@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    // ... other options ...
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ]
+}
